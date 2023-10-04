@@ -8,11 +8,11 @@ environment:
   flutter: ">=3.0.0"
 
 dependencies:
-  camera: ^0.10.2+1
+  camera: ^0.10.5+5
   flutter:
     sdk: flutter
-  google_mlkit_commons: ^0.3.0
-  google_mlkit_text_recognition: ^0.6.0
+  google_mlkit_commons: ^0.5.0
+  google_mlkit_text_recognition: ^0.10.0
 
 dev_dependencies:
   flutter_test:
